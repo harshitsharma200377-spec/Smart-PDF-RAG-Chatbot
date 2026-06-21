@@ -5,6 +5,7 @@ A powerful **Retrieval-Augmented Generation (RAG)** chatbot that lets you upload
 ---
 ## Live demo : https://smart-pdf-rag-chatbot-xwsz2jpturhhkrfyh2afbk.streamlit.app/
 
+---
 
 ## 🖥️ Screenshots
 
