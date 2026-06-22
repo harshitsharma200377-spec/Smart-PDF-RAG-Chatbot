@@ -13,7 +13,7 @@ from rag_chain import create_rag_chain, ask_question
 # Page Configuration
 # =====================================
 st.set_page_config(
-    page_title="Smart PDF RAG Chatbot",
+    page_title="Multi-PDF_RAG_Chatbot",
     page_icon="📚",
     layout="wide"
 )
