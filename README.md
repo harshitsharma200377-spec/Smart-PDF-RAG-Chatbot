@@ -15,11 +15,13 @@ A powerful **Retrieval-Augmented Generation (RAG)** chatbot that lets you upload
 ### 2. Asking Questions About a PDF
 ![Chat Demo](screenshots/screenshot1.png)
 
+### 3. Detailed Answers from PDF
+![Detailed Answer](screenshots/screenshot2.png)
+
+
 ### 4. Multiple Pdf : Asking Questions About Multiple pdf.  
 ![Detailed Answer](screenshots/screenshot4.png)
 
-### 3. Detailed Answers from PDF
-![Detailed Answer](screenshots/screenshot2.png)
 
 
 ---
