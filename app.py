@@ -59,7 +59,7 @@ with st.sidebar:
 # =====================================
 # Main Page
 # =====================================
-st.title("📚 Smart PDF RAG Chatbot")
+st.title("📚 Multi-PDF_RAG_Chatbot")
 st.write("Upload one or more PDF documents and ask questions about them.")
 
 # =====================================
